@@ -6,12 +6,6 @@
     "year": 1605
   },
   {
-    "id": "831ceef8-7ea0-44d5-94ce-58c502a8ad4c",
-    "title": "Cien años de soledad",
-    "author": "Gabriel García Márquez",
-    "year": 1967
-  },
-  {
     "id": "30a8e5ca-1fff-4c5b-a051-91ba1d0e8b31",
     "title": "El amor en los tiempos del cólera",
     "author": "Gabriel García Márquez",
@@ -5998,5 +5992,22 @@
     "title": "Inferno",
     "author": "Dan Brown",
     "year": 2013
+  },
+  {
+    "id": "527591b0-dfd4-434d-b53a-416b8577929c",
+    "title": "Cien Años de Soledad",
+    "author": "Gabriel García Márquez",
+    "year": 1967
+  },
+  {
+    "id": "9c50df14-cb67-4869-9587-c7ec4c3c0658",
+    "title": "El Principito",
+    "author": "Antoine de Saint-Exupéry",
+    "year": 1943
+  },
+  {
+    "id": "d0367252-4bb6-48ac-8a17-a0216e7a4573",
+    "title": "Don Quijote de la Mancha",
+    "author": "Miguel de Cervantes"
   }
 ]

@@ -1,0 +1,51 @@
+{
+	"info": {
+		"_postman_id": "dfd5f285-55d0-4300-bb87-621b2d907861",
+		"name": "Parcial 2 web",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+		"_exporter_id": "47698220",
+		"_collection_link": "https://jujarobles-1356154.postman.co/workspace/Julio-Javier-Robles's-Workspace~6db5616b-b07c-4ab4-87f9-a481fd440dd5/collection/47698220-dfd5f285-55d0-4300-bb87-621b2d907861?action=share&source=collection_link&creator=47698220"
+	},
+	"item": [
+		{
+			"name": "Obtener todos los libros",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		},
+		{
+			"name": "Obtener libro por ID",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		},
+		{
+			"name": "POST crear",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		},
+		{
+			"name": "POST duplicado",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		},
+		{
+			"name": "Eliminar",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		}
+	]
+}
